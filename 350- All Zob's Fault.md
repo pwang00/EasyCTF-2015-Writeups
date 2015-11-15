@@ -1,6 +1,6 @@
 # 350 - All Zob's Fault
 
-Note: this writeup assumes that you understand how the RSA cryptosystem works.  If not, head over to https://en.wikipedia.org/wiki/RSA_(cryptosystem) for a quick and beginner-friendly guide.
+Note: this writeup assumes that you understand how the RSA cryptosystem works.  If not, head over to https://en.wikipedia.org/wiki/RSA_(cryptosystem) for a quick, beginner-friendly guide.
 
 #### Overview
 
