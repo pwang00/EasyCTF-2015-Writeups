@@ -4,7 +4,7 @@ Note: this writeup assumes that you understand how the RSA cryptosystem works.  
 
 #### Overview
 
-Factor an low-bit RSA modulus and decrypt the ciphertext to attain the flag.
+Factor an low-bit RSA modulus and perform normal RSA decryption.
 
 #### Problem
 
