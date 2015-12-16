@@ -58,4 +58,4 @@ We now convert the flag to ASCII text, which is the flag.
 
 #### Flag
 
-flag{l0l_l3l_k1k_k3k_;p;}
+    flag{l0l_l3l_k1k_k3k_;p;}
