@@ -13,7 +13,7 @@ Apparently our crypto program didn't store the correct phi-value or something fo
 
 #### Solution
 
-Obviously, the file is encoded with base64.  We do 
+From first glance, the file is encoded with base64.  We do 
         
     justdoit@ubuntu:~/Documents$ cat all_zobs_fault.txt | base64 -d | tr ";" "\n"
     
